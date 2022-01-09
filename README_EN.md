@@ -2,4 +2,6 @@
 
 [README_CN.md](README.md)
 
-All HW, lab and proj has been completed except HW6, HW7, Proj2 Gold.
+My learning projects of Berkeley CS61B Course.
+
+@author: Rain Hu

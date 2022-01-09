@@ -2,7 +2,6 @@
 
 [README_EN.md](README_EN.md)
 
-介绍：<https://blog.csdn.net/li12ji34an/article/details/105821558>
+我的CS61B課程學習專案
 
-除 HW6，HW7，Proj2 Gold 以外，其余 HW，lab，proj 均已完成。
-# CS61B
+@author: Rain Hu
